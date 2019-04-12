@@ -1,0 +1,25 @@
+div#header.fluid-row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h1.title {
+  font-size: 45px;
+}
+
+h1, h4 {
+  font-family: 'Crimson Text', serif;
+  text-align: center;
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Georgia', serif;
+  font-size: 20px;
+  color: #323232;
+  line-height: 1.6;
+}
