@@ -90,7 +90,7 @@ projects as you can.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <div class="col-md-4">
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 </div>
 </div>
 
