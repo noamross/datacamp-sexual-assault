@@ -69,6 +69,43 @@ If enough pressure is brought on the company to make investors worry about their
 
 My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about Generalized Additive Models, tools I find quite handy and that I'd love to teach you more about. My contract with DataCamp gives them license to keep using it. Please don't take my course. Don't give DataCamp your money and send the message that sexual misconduct doesn't have consequences. I've collected some other resources on GAMs on [this page](https://github.com/noamross/gam-resources). I hope to convert my course to an open-source format soon, but for now these will more than do. Others are at least skilled as explaining the topic as I am.
 
+---
+***Some updates (2019-04-13)***:
+
+People have asked whether instructors have the right to pull their content of of DataCamp:
+
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">In general, no. Contract terms vary a bit, but for me: I retain IP and the right to post it elsewhere, but grant DC a perpetual, non-exclusive license to the course material in return for royalties. I&#39;ve requested breaking the contract by mutual consent, have not heard back.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1117050638955892742?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
+
+Lots of other instructors are  disassociating themselves from the DataCamp. I expect many more to come.
+All these people are giving up income. Support them, their organizations and
+projects as you can.
+
+<div class="row">
+<div class="col-md-4">
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">🗣 Please don&#39;t take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course, as <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> put it in his post today, there must be consequences for sexual assault. <a href="https://t.co/3G1TkfZpK1">https://t.co/3G1TkfZpK1</a><br><br>Here is a shinydashboard course you can take instead:<a href="https://t.co/SNUfY6zdnD">https://t.co/SNUfY6zdnD</a></p>&mdash; 𝓛𝓾𝓬𝔂::postdoc🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/1116820229026451457?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="col-md-4">
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">I&#39;m with Noam here, very well said! <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> need to be held accountable - do not take my course, I will be working on getting the content available in another medium soon, hopefully by mid year. <a href="https://t.co/02haKPYJE4">https://t.co/02haKPYJE4</a></p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/1116890872656711680?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="col-md-4">
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+</div>
+</div>
+
+Finally, when I was originally writing this post, I discovered that DataCamp's
+blog post describing the event contained a piece of code, `<meta name="robots" content="noindex" class="next-head">`
+which effectively makes the page invisible to search engines. [`@no_reply`](https://twitter.com/no_reply/status/1116843436001218561) and [Bob Rudis](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
+both give more elaborate explanations. DataCamp don't do this for any of their other blog
+posts. 
+
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
+<img src="datacamp-screenshot.png">
+</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1116709899159916544?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ------------------------------------------------------------------------
+
 
 *This post represents my personal point of view and not that of my employer or any group I am affiliated with.*

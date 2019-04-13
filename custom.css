@@ -17,6 +17,11 @@ h4 {
   font-size: 30px;
 }
 
+h5 {
+  text-align: left;
+  font-family: 'Georgia', serif;
+}
+
 p {
   font-family: 'Georgia', serif;
   font-size: 20px;
