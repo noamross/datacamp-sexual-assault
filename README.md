@@ -88,6 +88,8 @@ projects as you can.
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">I&#39;m with Noam here, very well said! <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> need to be held accountable - do not take my course, I will be working on getting the content available in another medium soon, hopefully by mid year. <a href="https://t.co/02haKPYJE4">https://t.co/02haKPYJE4</a></p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/1116890872656711680?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Until real change happens, please do not take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> said this better than I could: <a href="https://t.co/pmJkGDucGV">https://t.co/pmJkGDucGV</a></p>&mdash; James Lamb (@_jameslamb) <a href="https://twitter.com/_jameslamb/status/1117245327340376065?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
@@ -98,7 +100,7 @@ Finally, when I was originally writing this post, I discovered that DataCamp's
 blog post describing the event contained a piece of code, `<meta name="robots" content="noindex" class="next-head">`
 which effectively makes the page invisible to search engines. [`@no_reply`](https://twitter.com/no_reply/status/1116843436001218561) and [Bob Rudis](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
 both give more elaborate explanations. DataCamp don't do this for any of their other blog
-posts. 
+posts.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
 <img src="datacamp-screenshot.png">
