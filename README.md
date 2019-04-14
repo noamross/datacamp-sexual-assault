@@ -85,7 +85,7 @@ projects as you can.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">FWIW I don&#39;t feel in an awkward position. By which I mean it&#39;s easy for  me to state: I would encourage everyone NOT to take or pay for my Bokeh course on DC (or any others). Very sorry this happened to you and very disappointed in DC leadership.</p>&mdash; 🔴 (@bigreddot) <a href="https://twitter.com/bigreddot/status/1116725574070706176?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lan tw-align-centerg="en"><p lang="en" dir="ltr">tl;dr: please don’t take my course on <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a>.</p>&mdash; Romain François 🧩 (@romain_francois) <a href="https://twitter.com/romain_francois/status/1117358197814321152?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">tl;dr: please don’t take my course on <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a>.</p>&mdash; Romain François 🧩 (@romain_francois) <a href="https://twitter.com/romain_francois/status/1117358197814321152?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -97,6 +97,9 @@ projects as you can.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Until real change happens, please do not take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> said this better than I could: <a href="https://t.co/pmJkGDucGV">https://t.co/pmJkGDucGV</a></p>&mdash; James Lamb (@_jameslamb) <a href="https://twitter.com/_jameslamb/status/1117245327340376065?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like many others, I am encouraging people to not take my <a href="https://twitter.com/hashtag/DataCamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataCamp</a> course, due to their unacceptable handling of sexual assault. There are many other places to learn about Bayesian regression modeling. Here are a few using the same packages as my course:</p>&mdash; Jake Thompson (@wjakethompson) <a href="https://twitter.com/wjakethompson/status/1117446422704611328?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
