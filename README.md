@@ -107,7 +107,7 @@ projects as you can.
 Finally, when I was originally writing this post, I discovered that DataCamp's
 blog post describing the event contained a piece of code, `<meta name="robots" content="noindex" class="next-head">`
 which effectively makes the page invisible to search engines. [`@no_reply`](https://twitter.com/no_reply/status/1116843436001218561) and [Bob Rudis](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
-both give more elaborate explanations. DataCamp dones't do tisn for any of their other blog
+both give more elaborate explanations. DataCamp doesn't do this for any of their other blog
 posts.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
