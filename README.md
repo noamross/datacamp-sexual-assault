@@ -26,10 +26,10 @@ this post is nauseating. it can barely bother to be contrite. missing from the l
 </p>
 --- just moomin 🏳️
 🌈🏴 (@no_reply) <a href="https://twitter.com/no_reply/status/1113923411237957632?ref_src=twsrc%5Etfw">April 4, 2019</a>
-</blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</blockquote>
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">They could start by firing the guy who can&#39;t keep his hands to himself.</p>&mdash; Jesse Mostipak (@kierisi) <a href="https://twitter.com/kierisi/status/1113931192611610624?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 
 <div class="col-md-4">
@@ -39,7 +39,7 @@ And by writing a responsible incident report...all the extra detail is on the be
 </p>
 --- Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1113939480300355584?ref_src=twsrc%5Etfw">April 4, 2019</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 
 <div class="col-md-4">
@@ -82,11 +82,11 @@ projects as you can.
 <div class="row">
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden"><p lang="en" dir="ltr">🗣 Please don&#39;t take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course, as <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> put it in his post today, there must be consequences for sexual assault. <a href="https://t.co/3G1TkfZpK1">https://t.co/3G1TkfZpK1</a><br><br>Here is a shinydashboard course you can take instead:<a href="https://t.co/SNUfY6zdnD">https://t.co/SNUfY6zdnD</a></p>&mdash; 𝓛𝓾𝓬𝔂::postdoc🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/1116820229026451457?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">FWIW I don&#39;t feel in an awkward position. By which I mean it&#39;s easy for  me to state: I would encourage everyone NOT to take or pay for my Bokeh course on DC (or any others). Very sorry this happened to you and very disappointed in DC leadership.</p>&mdash; 🔴 (@bigreddot) <a href="https://twitter.com/bigreddot/status/1116725574070706176?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">tl;dr: please don’t take my course on <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a>.</p>&mdash; Romain François 🧩 (@romain_francois) <a href="https://twitter.com/romain_francois/status/1117358197814321152?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
@@ -94,17 +94,17 @@ projects as you can.
 </div>
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">I&#39;m with Noam here, very well said! <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> need to be held accountable - do not take my course, I will be working on getting the content available in another medium soon, hopefully by mid year. <a href="https://t.co/02haKPYJE4">https://t.co/02haKPYJE4</a></p>&mdash; Nicholas Tierney (@nj_tierney) <a href="https://twitter.com/nj_tierney/status/1116890872656711680?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Until real change happens, please do not take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> said this better than I could: <a href="https://t.co/pmJkGDucGV">https://t.co/pmJkGDucGV</a></p>&mdash; James Lamb (@_jameslamb) <a href="https://twitter.com/_jameslamb/status/1117245327340376065?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like many others, I am encouraging people to not take my <a href="https://twitter.com/hashtag/DataCamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataCamp</a> course, due to their unacceptable handling of sexual assault. There are many other places to learn about Bayesian regression modeling. Here are a few using the same packages as my course:</p>&mdash; Jake Thompson (@wjakethompson) <a href="https://twitter.com/wjakethompson/status/1117446422704611328?ref_src=twsrc%5Etfw">April 14, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </div>
 <div class="col-md-4">
 <blockquote class="twitter-tweet tw-align-center" data-cards="hidden"><p lang="en" dir="ltr">I applaud <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a>&#39;s stance and I stand in full support of his position.  Please do not pay for or take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;ll be releasing an open book this summer that includes equivalent content and more for those of you who are using those resources. <a href="https://t.co/uo4O7CmqBG">https://t.co/uo4O7CmqBG</a></p>&mdash; Kyle Walker (@kyle_e_walker) <a href="https://twitter.com/kyle_e_walker/status/1116711889382277121?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 <blockquote class="twitter-tweet tw-align-center" data-lang="en" data-cards="hidden"><p lang="en" dir="ltr">It&#39;s incredibly disappointing how DataCamp has dealt with this situation. I will not be developing any more courses with them. <a href="https://t.co/G9lvBuRHwX">https://t.co/G9lvBuRHwX</a></p>&mdash; Sarah Guido (@sarah_guido) <a href="https://twitter.com/sarah_guido/status/1114172339988639744?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </div>
 </div>
@@ -118,9 +118,11 @@ posts.
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
 <img src="datacamp-screenshot.png">
 </p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1116709899159916544?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ------------------------------------------------------------------------
 
 
 *This post represents my personal point of view and not that of my employer or any group I am affiliated with.*
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
