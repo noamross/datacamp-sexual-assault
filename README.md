@@ -83,7 +83,7 @@ DataCamp claimed their firings were due to poor performance.  I find that aburd,
 stamp is all over DataCamp's products.  I tweeted a brief thread about this
 [here](https://twitter.com/noamross/status/1117802588269891584).
 
-RStudio announced they will stop working with DataCamp in [this tweet thread](h.ttps://twitter.com/rstudio/status/1117889763711696896)
+RStudio announced they will stop working with DataCamp in [this tweet thread](https://twitter.com/rstudio/status/1117889763711696896).
 
 
 ### Some updates (2019-04-13)
