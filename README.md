@@ -70,7 +70,16 @@ If enough pressure is brought on the company to make investors worry about their
 My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about Generalized Additive Models, tools I find quite handy and that I'd love to teach you more about. My contract with DataCamp gives them license to keep using it. Please don't take my course. Don't give DataCamp your money and send the message that sexual misconduct doesn't have consequences. I've collected some other resources on GAMs on [this page](https://github.com/noamross/gam-resources). I hope to convert my course to an open-source format soon, but for now these will more than do. Others are at least skilled as explaining the topic as I am.
 
 ---
-***Some updates (2019-04-13)***:
+***More updates (2019-04-15)***:
+
+The SatRdays organization has put out a [statement](https://satrdays.org/blog/2019/04/14/datacamp-sponsorship/) that they are dropping DataCamp sponsorship from their events.
+
+Two former DataCamp employees, Dhavide Aruliah and Greg Wilson, were fired in mid-2018 after complaining to management about handling of sexual harassment.
+Here are statements from [Dhavide](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html) and [Greg](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html) (
+and some other relevant posts from Greg: [1](http://third-bit.com/2019/04/05/the-worst-behavior.html), [2](http://third-bit.com/2019/04/14/the-people-you-have.html).)
+)
+
+*Some updates (2019-04-13)***:
 
 People have asked whether instructors have the right to pull their content of of DataCamp:
 
