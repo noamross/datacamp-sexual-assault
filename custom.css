@@ -13,11 +13,8 @@ h1, h4 {
   font-weight: 300;
 }
 
-h4 {
-  font-size: 30px;
-}
 
-h5 {
+h3, h5 {
   text-align: left;
   font-family: 'Georgia', serif;
 }
