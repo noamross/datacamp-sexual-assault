@@ -75,7 +75,10 @@ My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about General
 The SatRdays organization has put out a [statement](https://satrdays.org/blog/2019/04/14/datacamp-sponsorship/) that they are dropping DataCamp sponsorship from their events.
 
 Two former DataCamp employees, Dhavide Aruliah and Greg Wilson, were fired in mid-2018 after complaining to management about handling of sexual harassment.
-Here are statements from [Dhavide](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html) and [Greg](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html) (and some other relevant posts from Greg: [1](http://third-bit.com/2019/04/05/the-worst-behavior.html), [2](http://third-bit.com/2019/04/14/the-people-you-have.html)).
+Here are statements from [Dhavide](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html) and [Greg](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html) (and some other relevant posts from Greg: [1](http://third-bit.com/2019/04/05/the-worst-behavior.html), [2](http://third-bit.com/2019/04/14/the-people-you-have.html)).  Both say that
+DataCamp claimed this eir firings weree to poor performance.  I find that aburd, as their
+stamp is all over DataCamp's products.  I tweeted a brief thread about this
+[here](https://twitter.com/noamross/status/1117802588269891584).
 
 
 ***Some updates (2019-04-13)***
