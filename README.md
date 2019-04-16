@@ -85,10 +85,9 @@ stamp is all over DataCamp's products.  I tweeted a brief thread about this
 
 RStudio announced they will stop working with DataCamp in [this tweet thread](https://twitter.com/rstudio/status/1117889763711696896).
 
-
 ### Some updates (2019-04-13)
 
-People have asked whether instructors have the right to pull their content of of DataCamp:
+People have asked whether instructors have the right to pull their content of off DataCamp:
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">In general, no. Contract terms vary a bit, but for me: I retain IP and the right to post it elsewhere, but grant DC a perpetual, non-exclusive license to the course material in return for royalties. I&#39;ve requested breaking the contract by mutual consent, have not heard back.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1117050638955892742?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
 
