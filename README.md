@@ -53,6 +53,8 @@ I've supported D.C. publicly, been on their podcast & pay for their service. I'm
 </div>
 </div>
 
+_(Edit, 2019-04-16: [`@skeptycal`](https://twitter.com/skeptycal) ha a particularly sharp [analysis](https://medium.com/@miketreanor/datacamp-the-teacher-gave-you-an-f-cedb1b19bfd7) of just how this statement fails so completely.)_
+
 I was, probably credulously, shocked at the statement DataCamp put out. After 100 instructors told them that they couldn't just leave it at that, they wrote a public statement to leave it at that. We got no message like "we are making a statement, and something more robust is coming." Nor did DataCamp give the target any warning that they would make the incident public by releasing a statement.
 
 The last part was especially galling given how cautious the instructors who organized us were about avoiding blowback to other parties. The instructors who led the effort were patient, despite months of frustrating conversations with DataCamp. They kept the matter private to avoid dragging the target of the incident into the fray. They kept the focus on DataCamp leadership and policy to avoid putting other employees in an awkward place. They gave DataCamp every opportunity to explain themselves, change course, and own the public narrative. A company should count itself lucky to have such constructive critics.
