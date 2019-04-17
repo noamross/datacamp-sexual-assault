@@ -72,11 +72,14 @@ If enough pressure is brought on the company to make investors worry about their
 
 My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about Generalized Additive Models, tools I find quite handy and that I'd love to teach you more about. My contract with DataCamp gives them license to keep using it. Please don't take my course. Don't give DataCamp your money and send the message that sexual misconduct doesn't have consequences. I've collected some other resources on GAMs on [this page](https://github.com/noamross/gam-resources). I hope to convert my course to an open-source format soon, but for now these will more than do. Others are at least skilled as explaining the topic as I am.
 
-<hr/>
+---
+
+### Even More updates (2019-04-17)
+
+A [news story about all this in _Computer World_](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html), by Sharon Machlis.
 
 ### Yet More updates (2019-04-16)
 
-         
 
 Read Julia Silge's [thoughtful post](https://juliasilge.com/blog/datacamp-misconduct/) on how DataCamp lost her trust.
 
@@ -104,10 +107,10 @@ projects as you can.
 
 <div class="row">
 <div class="col-md-4">
-<blockquote class="twitter-tweet" data-carlang="en"><p lang="en" dir="ltr">My course recently launched. Please don’t take it, not until DataCamp regains our trust. (4/4)</p>&mdash; Marc Dotson (@marcdotson) <a href="https://twitter.com/marcdotson/status/1118568822166790144?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My course recently launched. Please don’t take it, not until DataCamp regains our trust. (4/4)</p>&mdash; Marc Dotson (@marcdotson) <a href="https://twitter.com/marcdotson/status/1118568822166790144?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-ds="hidden"><p lang="en" dir="ltr">🗣 Please don&#39;t take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course, as <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> put it in his post today, there must be consequences for sexual assault. <a href="https://t.co/3G1TkfZpK1">https://t.co/3G1TkfZpK1</a><br><br>Here is a shinydashboard course you can take instead:<a href="https://t.co/SNUfY6zdnD">https://t.co/SNUfY6zdnD</a></p>&mdash; 𝓛𝓾𝓬𝔂::postdoc🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/1116820229026451457?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden"><p lang="en" dir="ltr">🗣 Please don&#39;t take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course, as <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> put it in his post today, there must be consequences for sexual assault. <a href="https://t.co/3G1TkfZpK1">https://t.co/3G1TkfZpK1</a><br><br>Here is a shinydashboard course you can take instead:<a href="https://t.co/SNUfY6zdnD">https://t.co/SNUfY6zdnD</a></p>&mdash; 𝓛𝓾𝓬𝔂::postdoc🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/1116820229026451457?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Greg was one of the reasons I developed my course with DataCamp. After he was fired for &quot;performance&quot;, they tried to bribe him with a month&#39;s pay if he signed a non-disparagement agreement. This company is rotten to the core. <a href="https://t.co/qULEffAZ3Y">https://t.co/qULEffAZ3Y</a></p>&mdash; Dr. Alex Hanna (@alexhanna) <a href="https://twitter.com/alexhanna/status/1117873795060998144?ref_src=twsrc%5Etfw">April 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -145,6 +148,10 @@ projects as you can.
 </div>
 <div class="col-md-4">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was so proud &amp; excited to be mere *days* away from my 1st <a href="https://twitter.com/hashtag/DataCamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataCamp</a> course being hard-launched! After learning about the organization&#39;s actions 🤬I have asked for my course to be withdrawn &amp; my contract terminated. I&#39;m waiting for a response &amp; very unsure of the legalities.</p>&mdash; Danielle Quinn (@daniellequinn88) <a href="https://twitter.com/daniellequinn88/status/1117860833499832321?ref_src=twsrc%5Etfw">April 15, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">[...] I&#39;ll remove all references to my two <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> courses and refrain from encouraging people to take them. This is really sad and I feel  deeply sorry for the good people at the company that I had the pleasure  to work with. Background:  <a href="https://t.co/ybwoa9eSNc">https://t.co/ybwoa9eSNc</a>  <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/SQL?src=hash&amp;ref_src=twsrc%5Etfw">#SQL</a></p>&mdash; Timo Grossenbacher (@grssnbchr) <a href="https://twitter.com/grssnbchr/status/1118623983438528512?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;What I do need to maintain a continuing relationship with a company and/or people is trustworthiness and accountability.&quot;  <a href="https://twitter.com/juliasilge?ref_src=twsrc%5Etfw">@juliasilge</a> explains it perfectly.  You&#39;ve lost my trust <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> <a href="https://t.co/inMQJfHGlK">https://t.co/inMQJfHGlK</a></p>&mdash; Charlotte Wickham (@CVWickham) <a href="https://twitter.com/CVWickham/status/1118306188800610304?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 
