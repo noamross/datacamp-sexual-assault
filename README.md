@@ -97,7 +97,7 @@ RStudio announced they will stop working with DataCamp in [this tweet thread](ht
 
 People have asked whether instructors have the right to pull their content off of DataCamp:
 
-<blockquote class="twitter-tweet" d tw-align-centerata-partner="tweetdeck"><p lang="en" dir="ltr">In general, no. Contract terms vary a bit, but for me: I retain IP and the right to post it elsewhere, but grant DC a perpetual, non-exclusive license to the course material in return for royalties. I&#39;ve requested breaking the contract by mutual consent, have not heard back.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1117050638955892742?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">In general, no. Contract terms vary a bit, but for me: I retain IP and the right to post it elsewhere, but grant DC a perpetual, non-exclusive license to the course material in return for royalties. I&#39;ve requested breaking the contract by mutual consent, have not heard back.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1117050638955892742?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
 
 There are statements from [R-Ladies](https://blog.rladies.org/post/statement-about-datacamp/) and [Women+ in Machine Learning & Data Science](https://twitter.com/wimlds/status/1115734798113300481) comdemning DataCamp. Lots of other instructors are  disassociating themselves from the DataCamp and putting their materials somewhere else for learners to use. I expect many more to come. All these people are giving up income. Support them, their organizations and
 projects as you can.
@@ -158,12 +158,16 @@ which effectively makes the page invisible to search engines. [`@no_reply`](http
 both give more elaborate explanations. DataCamp doesn't do this for any of their other blog
 posts.
 
-<blockquote class="twitter-tweet" data-lang= tw-align-center"en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">If you think <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> deserves credit for a public post that they did not discipline an executive for sexual misconduct, consider that they put this code in the HTML, so no search engines would index it. I don&#39;t see it anywhere else on their blog. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datasci?src=hash&amp;ref_src=twsrc%5Etfw">#datasci</a> <a href="https://twitter.com/hashtag/metoo?src=hash&amp;ref_src=twsrc%5Etfw">#metoo</a> <a href="https://t.co/xbQoSaQl5J">pic.twitter.com/xbQoSaQl5J</a>
 <img src="datacamp-screenshot.png">
 </p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1116709899159916544?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 
+_(Edit 2019-04-17: On April 17th the `noindex` tag was removed.  Here is the page archived
+[on the 16th](https://web.archive.org/web/20190416035941/http://www.datacamp.com/community/blog/note-to-our-community) and 
+[on the 17th](https://web.archive.org/web/20190417114653/https://www.datacamp.com/community/blog/note-to-our-community))_
 
-------------------------------------------------------------------------
+
+-------.-----------------------------------------------------------------
 
 
 *This post represents my personal point of view and not that of my employer or any group I am affiliated with.*
