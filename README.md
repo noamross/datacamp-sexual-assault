@@ -74,6 +74,11 @@ My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about General
 
 ---
 
+
+### Updates (2019-04-22)
+
+New stories from [Business Insider](https://www.businessinsider.com/datacamp-ceo-made-uninvited-physical-contact-with-employee-sources-say-2019-4), which names the CEO as the executive, and [Motherboard](https://motherboard.vice.com/en_us/article/597p7z/datacamp-teachers-boycott-their-own-classes-following-sexual-misconduct-by-executive), which features the large numbers of instructors leaving.
+
 ### Even More updates (2019-04-17)
 
 A [news story about all this in _Computer World_](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html), by Sharon Machlis.
