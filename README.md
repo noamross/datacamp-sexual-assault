@@ -12,6 +12,7 @@ output:
     css: custom.css
 ---
 
+_Please note there are numerous updates below._
 
 Last week (April 4, 2019) DataCamp [published a blog post](https://www.datacamp.com/community/blog/note-to-our-community) stating that "one of DataCamp's executives danced inappropriately and made uninvited physical contact with another employee," an action meeting many [definitions of sexual assault](https://www.rainn.org/articles/sexual-assault). While the post makes the claim that DataCamp does not condone this behavior, it also makes clear that the disciplinary actions against the executive were limited to "sensitivity training, personal coaching, and a strong warning."
 
@@ -109,7 +110,7 @@ People have asked whether instructors have the right to pull their content off o
 
 (Update 2019-04-22: I have heard back and DataCamp opted to keep my course up.)
 
-There are statements from [R-Ladies](https://blog.rladies.org/post/statement-about-datacamp/) and [Women+ in Machine Learning & Data Science](https://twitter.com/wimlds/status/1115734798113300481) comdemning DataCamp. Lots of other instructors are  disassociating themselves from the DataCamp and putting their materials somewhere else for learners to use. I expect many more to come. All these people are giving up income. Support them, their organizations and
+There are statements from [R-Ladies](https://blog.rladies.org/post/statement-about-datacamp/) and [Women+ in Machine Learning & Data Science](https://twitter.com/wimlds/status/1115734798113300481) comdemning DataCamp. Lots of other instructors are and other DataCamp partners disassociating themselves from the DataCamp and putting their materials somewhere else for learners to use. I expect many more to come. All these people are giving up income. Support them, their organizations and
 projects as you can.
 
 <div class="row">
@@ -155,6 +156,9 @@ projects as you can.
 <blockquote class="twitter-tweet" data-lang tw-align-center="en"><p lang="en" dir="ltr">I *can* say it&#39;s unlikely I&#39;ll ever use or recommend <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> again. They have, through their own arrogance, selfishness, &amp; shortsightedness irrevocably lost  the trust &amp; respect of the very community they rely on to build  content. (2/2)<a href="https://twitter.com/hashtag/MeTooSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#MeTooSTEM</a></p>&mdash; Dhavide Aruliah (@dhavidearuliah) <a href="https://twitter.com/dhavidearuliah/status/1117823182642323456?ref_src=twsrc%5Etfw">April 15, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1. Some of you may know of my course on R programming at <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a>. Sadly, the company has failed to properly handle credible allegations of sexual assault perpetrated by a C-lvl exec. Please don’t take my course until they issue a proper remedy. <a href="https://twitter.com/hashtag/TimesUp?src=hash&amp;ref_src=twsrc%5Etfw">#TimesUp</a>.</p>&mdash; G. Elliott Morris (@gelliottmorris) <a href="https://twitter.com/gelliottmorris/status/1117943872234061825?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This means: <br>1. My <a href="https://twitter.com/coursera?ref_src=twsrc%5Etfw">@Coursera</a> course no longer offers option for <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> labs via <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a>.This years-long collaboration represents hard work by <a href="https://twitter.com/DukeLearning?ref_src=twsrc%5Etfw">@DukeLearning</a>+DataCamp staff to provide browser-based R access for thousands of learners,fruits of this effort will now go unused(2/5)</p>&mdash; Mine CetinkayaRundel (@minebocek) <a href="https://twitter.com/minebocek/status/1120713838393880576?ref_src=twsrc%5Etfw">April 23, 2019</a></blockquote>
+
 
 </div>
 <div class="col-md-4">
