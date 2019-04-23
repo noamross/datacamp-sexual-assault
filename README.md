@@ -107,6 +107,8 @@ People have asked whether instructors have the right to pull their content off o
 
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">In general, no. Contract terms vary a bit, but for me: I retain IP and the right to post it elsewhere, but grant DC a perpetual, non-exclusive license to the course material in return for royalties. I&#39;ve requested breaking the contract by mutual consent, have not heard back.</p>&mdash; Noam Ross (@noamross) <a href="https://twitter.com/noamross/status/1117050638955892742?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote>
 
+(Update 2019-04-22: I have heard back and DataCamp opted to keep my course up.)
+
 There are statements from [R-Ladies](https://blog.rladies.org/post/statement-about-datacamp/) and [Women+ in Machine Learning & Data Science](https://twitter.com/wimlds/status/1115734798113300481) comdemning DataCamp. Lots of other instructors are  disassociating themselves from the DataCamp and putting their materials somewhere else for learners to use. I expect many more to come. All these people are giving up income. Support them, their organizations and
 projects as you can.
 
