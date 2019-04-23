@@ -115,8 +115,9 @@ projects as you can.
 
 <div class="row">
 <div class="col-md-4">
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My course recently launched. Please don’t take it, not until DataCamp regains our trust. (4/4)</p>&mdash; Marc Dotson (@marcdotson) <a href="https://twitter.com/marcdotson/status/1118568822166790144?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-cards="hidden"><p lang="en" dir="ltr">🗣 Please don&#39;t take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course, as <a href="https://twitter.com/noamross?ref_src=twsrc%5Etfw">@noamross</a> put it in his post today, there must be consequences for sexual assault. <a href="https://t.co/3G1TkfZpK1">https://t.co/3G1TkfZpK1</a><br><br>Here is a shinydashboard course you can take instead:<a href="https://t.co/SNUfY6zdnD">https://t.co/SNUfY6zdnD</a></p>&mdash; 𝓛𝓾𝓬𝔂::postdoc🌻 (@LucyStats) <a href="https://twitter.com/LucyStats/status/1116820229026451457?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote>
 
@@ -162,6 +163,12 @@ projects as you can.
 
 </div>
 <div class="col-md-4">
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please do not take my <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> course.  I&#39;m disappointed by the incident, but I&#39;m dumbfounded by recent actions.  The: response to instructors, &#39;no-index&#39; tag on blog, and `3rd party not involved in day-to-day` for investigation speaks volumes.  Do not support DataCamp. <a href="https://t.co/76qp1wmPfS">https://t.co/76qp1wmPfS</a></p>&mdash; Jo Hardin (@jo_hardin47) <a href="https://twitter.com/jo_hardin47/status/1120788953961906176?ref_src=twsrc%5Etfw">April 23, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I was so proud &amp; excited to be mere *days* away from my 1st <a href="https://twitter.com/hashtag/DataCamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataCamp</a> course being hard-launched! After learning about the organization&#39;s actions 🤬I have asked for my course to be withdrawn &amp; my contract terminated. I&#39;m waiting for a response &amp; very unsure of the legalities.</p>&mdash; Danielle Quinn (@daniellequinn88) <a href="https://twitter.com/daniellequinn88/status/1117860833499832321?ref_src=twsrc%5Etfw">April 15, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">[...] I&#39;ll remove all references to my two <a href="https://twitter.com/DataCamp?ref_src=twsrc%5Etfw">@DataCamp</a> courses and refrain from encouraging people to take them. This is really sad and I feel  deeply sorry for the good people at the company that I had the pleasure  to work with. Background:  <a href="https://t.co/ybwoa9eSNc">https://t.co/ybwoa9eSNc</a>  <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/SQL?src=hash&amp;ref_src=twsrc%5Etfw">#SQL</a></p>&mdash; Timo Grossenbacher (@grssnbchr) <a href="https://twitter.com/grssnbchr/status/1118623983438528512?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
