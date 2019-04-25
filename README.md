@@ -12,7 +12,7 @@ output:
     css: custom.css
 ---
 
-_Please note there are numerous updates below._
+_Please note there are MANY updates below._
 
 Last week (April 4, 2019) DataCamp [published a blog post](https://www.datacamp.com/community/blog/note-to-our-community) stating that "one of DataCamp's executives danced inappropriately and made uninvited physical contact with another employee," an action meeting many [definitions of sexual assault](https://www.rainn.org/articles/sexual-assault). While the post makes the claim that DataCamp does not condone this behavior, it also makes clear that the disciplinary actions against the executive were limited to "sensitivity training, personal coaching, and a strong warning."
 
@@ -74,6 +74,14 @@ If enough pressure is brought on the company to make investors worry about their
 My course on DataCamp is *Nonlinear Modeling in R with GAMs*. It's about Generalized Additive Models, tools I find quite handy and that I'd love to teach you more about. My contract with DataCamp gives them license to keep using it. Please don't take my course. Don't give DataCamp your money and send the message that sexual misconduct doesn't have consequences. I've collected some other resources on GAMs on [this page](https://github.com/noamross/gam-resources). I hope to convert my course to an open-source format soon, but for now these will more than do. Others are at least skilled as explaining the topic as I am.
 
 ---
+
+
+### Significant Updates (2019-04-24)
+
+DataCamp issued a [statement from it's board](https://www.datacamp.com/community/blog/board-update)
+and an [apology from the CEO](https://www.datacamp.com/community/blog/apology).  In short, the CEO will be stepping down "indefinitely," and there is to be an investigation by outside counsel and the creation of instructor review board.
+There's an [article in Computer World](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html) about it, including my and Julia
+Silge's reactions.
 
 
 ### Updates (2019-04-22)
