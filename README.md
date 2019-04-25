@@ -152,6 +152,10 @@ projects as you can.
 </div>
 <div class="col-md-4">
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I terminated my <a href="https://twitter.com/hashtag/DataCamp?src=hash&amp;ref_src=twsrc%5Etfw">#DataCamp</a> course contract this week to stand in support with my <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community against DataCamp’s poor handling of sexual misconduct. <a href="https://t.co/pzZy3wghWv">https://t.co/pzZy3wghWv</a> I cannot support any organisation who does not value the people who make the R community great! <a href="https://twitter.com/hashtag/MeToo?src=hash&amp;ref_src=twsrc%5Etfw">#MeToo</a></p>&mdash; Alice Data (@alice_data) <a href="https://twitter.com/alice_data/status/1121324914454212608?ref_src=twsrc%5Etfw">April 25, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like many of you, I&#39;m incredibly disappointed by DataCamp. I wanted to make a free version of my spaCy course so you don&#39;t have to sign up for their service – and ended up building my own interactive app. Powered by the awesome <a href="https://twitter.com/mybinderteam?ref_src=twsrc%5Etfw">@mybinderteam</a> &amp; <a href="https://twitter.com/gatsbyjs?ref_src=twsrc%5Etfw">@gatsbyjs</a> 💖 <a href="https://t.co/2QOuDPoZEX">https://t.co/2QOuDPoZEX</a></p>&mdash; Ines Montani 〰️ (@_inesmontani) <a href="https://twitter.com/_inesmontani/status/1118508634357604353?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
