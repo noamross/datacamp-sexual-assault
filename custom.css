@@ -13,6 +13,13 @@ h1, h4 {
   font-weight: 300;
 }
 
+ol li {
+  color: #323232;
+  font-size: 20px;
+  font-family: Georgia, serif;
+}
+
+
 
 h3, h5 {
   text-align: left;
