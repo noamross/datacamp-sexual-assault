@@ -12,7 +12,7 @@ output:
     css: custom.css
 ---
 
-_Please note there are MANY updates below, and a [separate post](questions.html) following DataCamp's [April 24th announcement](https://www.datacamp.com/community/blog/board-update)_
+_Please note there are MANY updates below, and a [separate post](questions.html) following DataCamp's [April 24th announcement](https://www.datacamp.com/community/blog/board-update)._
 
 Last week (April 4, 2019) DataCamp [published a blog post](https://www.datacamp.com/community/blog/note-to-our-community) stating that "one of DataCamp's executives danced inappropriately and made uninvited physical contact with another employee," an action meeting many [definitions of sexual assault](https://www.rainn.org/articles/sexual-assault). While the post makes the claim that DataCamp does not condone this behavior, it also makes clear that the disciplinary actions against the executive were limited to "sensitivity training, personal coaching, and a strong warning."
 
